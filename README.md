@@ -1,5 +1,8 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
+- Currently working on a bug in [conky-FoldingAtHome-status](https://github.com/dfyockey/conky-FoldingAtHome-status).
+- (14 July 2021) Just made public [demitile](https://github.com/dfyockey/demitile) point & keypress tiling software.
+
 <!--
 **dfyockey/dfyockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
