@@ -1,6 +1,7 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
 - Currently working on resolving a bug in [conky-FoldingAtHome-status](https://github.com/dfyockey/conky-FoldingAtHome-status).
+  - I actaully resolved it back on July 15, but the nature of the bug means it takes _days_ to test...
 - (14 July 2021) Just made public [demitile](https://github.com/dfyockey/demitile) point & keypress tiling software.
 
 <!--
