@@ -1,6 +1,6 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
-Finished the first iteration of [lwnws](https://github.com/dfyockey/lwnws), a utility to provide current local weather information for a given latitude and longitude based on U.S. National Weather Service data. The motivation for the project was to provide weather info for use with [conky](https://github.com/brndnmtthws/conky). It has a number issues concerning enhancements to add and one obscure [bug](https://github.com/dfyockey/lwnws/issues/7) to track down. Contributions to resolving issues and/or submissions of new issues suggesting enhancements, pointing out bugs, etc are welcome.
+Finished the first iteration of [lwnws](https://github.com/dfyockey/lwnws), a utility to provide current local weather information for a given latitude and longitude based on U.S. National Weather Service data. The motivation for the project was to provide weather info for use with [conky](https://github.com/brndnmtthws/conky). It has a number issues concerning enhancements to add. Contributions to resolving issues and/or submissions of new issues suggesting enhancements, pointing out bugs, etc are welcome.
 
 <!--
 **dfyockey/dfyockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
