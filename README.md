@@ -1,5 +1,7 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
+I recently started [FaviconGofer](https://github.com/dfyockey/FaviconGofer), a utility to retrieve a favicon for a site given the site's URL. It currently can only retrieve a favicon if stored as `favicon.ico` in a site's root directory. The motivation for the utility is to develop code to obtain favicons from sites for combination with other icons to more clearly identify the content of a files, folders, and links.
+
 Finished the first iteration of [lwnws](https://github.com/dfyockey/lwnws), a utility to provide current local weather information for a given latitude and longitude based on U.S. National Weather Service data. The motivation for the project was to provide weather info for use with [conky](https://github.com/brndnmtthws/conky). It has a number issues concerning enhancements to add. Contributions to resolving issues and/or submissions of new issues suggesting enhancements, pointing out bugs, etc are welcome.
 
 <!--
