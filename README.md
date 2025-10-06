@@ -1,8 +1,10 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
-Making progress on [ficonic](https://github.com/dfyockey/ficonic) (formerly _FaviconGofer_), which is a utility intended to retrieve all of the icons representing a site at a given URL (broadly referred to as "favicons"). Currently, _ficonic_ is able to retrieve `favicon.ico` and `apple-touch-icon.png` icons in the site's root directory, and any icons identified in HTML link tags having recognized rel values.  The motivation for the utility is to develop code to obtain representative icons from sites for use alone or in combination with other icons to more clearly identify the content of a files, folders, and links related to the site.
+2025.10.06 - 16:35 UTC
 
-Finished the first iteration of [lwnws](https://github.com/dfyockey/lwnws), a utility to provide current local weather information for a given latitude and longitude based on U.S. National Weather Service data. The motivation for the project was to provide weather info for use with [conky](https://github.com/brndnmtthws/conky). It has a number issues concerning enhancements to add. Contributions to resolving issues and/or submissions of new issues suggesting enhancements, pointing out bugs, etc are welcome.
+I knew it'd been a while, but I just realized I'd changed _nothing_ in this space for _over two years_ 🙁
+
+So, without further ado, I hereby delete it all and start with a clean slate! 🙂
 
 <!--
 **dfyockey/dfyockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
