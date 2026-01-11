@@ -1,5 +1,9 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
+2026.01.10 - 01:26 UTC
+
+Currently working on RomanDigital to improve the reliability of widget display updates in the face of aggressive battery saving features. For anyone interested in the details, checkout the [tree_tick_relay_service](https://github.com/dfyockey/RomanDigital/tree/time_tick_relay_service) branch.
+
 2025.10.06 - 16:35 UTC
 
 I knew it'd been a while, but I just realized I'd changed _nothing_ in this space for _over two years_ 🙁
