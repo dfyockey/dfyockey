@@ -1,5 +1,9 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
+2026.02.05 - 20:29 UTC
+
+Just pushed up a branch of commits to add [typeface selection](https://github.com/dfyockey/RomanDigital/tree/typeface_selection) to RomanDigital time displays of both app and widgets. Next... Some assembly required: merge both this branch and the [time_tick_relay_service](https://github.com/dfyockey/RomanDigital/tree/time_tick_relay_service) branch into main, test, release, and relax.
+
 2026.01.10 - 01:26 UTC
 
 Currently working on RomanDigital to improve the reliability of widget display updates in the face of aggressive battery saving features. For anyone interested in the details, check out the [time_tick_relay_service](https://github.com/dfyockey/RomanDigital/tree/time_tick_relay_service) branch.
