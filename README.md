@@ -1,5 +1,9 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
+2026.02.23 - 00:38 UTC
+
+Making progress on getting RomanDigital ready for a planned end-of-February release. Barring the rise of new issues, all that's left is basically a lot of writing: add/update copyright info in code files, make some additions to the About activity, add/update fastlane files (needed for publishing F-Droid), update README.md and CHANGELOG.md, and update version info. I _think_ that's everything :thinking: 
+
 2026.02.05 - 20:29 UTC
 
 Just pushed up a branch of commits to add [typeface selection](https://github.com/dfyockey/RomanDigital/tree/typeface_selection) to RomanDigital time displays of both app and widgets. Next... Some assembly required: merge both this branch and the [time_tick_relay_service](https://github.com/dfyockey/RomanDigital/tree/time_tick_relay_service) branch into main, test, release, and relax.
