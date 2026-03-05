@@ -1,5 +1,9 @@
 ![Hello, World](Screenshot_2021-07-08_12-02-36.png)
 
+2026.02.28 - 23:31 UTC
+
+Got [RomanDigital 3.0.0 released](https://github.com/dfyockey/RomanDigital/releases/tag/3.0.0) just in the nick of time! 🙂
+
 2026.02.23 - 00:38 UTC
 
 Making progress on getting RomanDigital ready for a planned end-of-February release. Barring the rise of new issues, all that's left is basically a lot of writing: add/update copyright info in code files, make some additions to the About activity, add/update fastlane files (needed for publishing F-Droid), update README.md and CHANGELOG.md, and update version info. I _think_ that's everything :thinking: 
